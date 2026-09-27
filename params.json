@@ -1,0 +1,16 @@
+{
+  "slug": "uk-energy-bill-calculator",
+  "country": "GB",
+  "domain": "energy",
+  "law_reference": "Ofgem Default Tariff Cap Statutory Provisions",
+  "sources": [
+    "https://www.ofgem.gov.uk/energy-price-cap"
+  ],
+  "sources_health": {
+    "https://www.ofgem.gov.uk/energy-price-cap": {
+      "status": 200,
+      "reachable": true
+    }
+  },
+  "signature_payload": "b63c3950059f158c6976ad4393721b93890145f2e23b1969eb5a91b9361decf0"
+}
