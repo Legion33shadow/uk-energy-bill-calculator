@@ -1,0 +1,13 @@
+{
+  "slug": "uk-energy-bill-calculator",
+  "type": "calculator",
+  "country": "UK",
+  "category": "energy",
+  "official_sources": [
+    "https://www.ofgem.gov.uk/energy-price-cap",
+    "https://www.gov.uk/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "Energy bills depend on tariff, region, standing charge and usage."
+}
